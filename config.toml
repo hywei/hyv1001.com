@@ -1,0 +1,5 @@
+baseurl = "http://hyv1001.com/"
+languageCode = "en-us"
+title = "JustWe!!!"
+theme = "hugo-theme-console"
+
